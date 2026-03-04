@@ -1,1 +1,4 @@
-# 13222101_Wahyu_Putra_Almaya
+Nama          : Wahyu Putra Almaya
+NIM           : 13222101
+Program Studi : Sarjana Teknik Elektro
+Fakultas      : STEI-R
